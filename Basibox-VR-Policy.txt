@@ -1,0 +1,55 @@
+PRIVACY POLICY FOR BASIBOX VR  ON QUEST 2, QUEST PRO, AND QUEST 3
+
+Basibox VR  is a virtual reality occupational safety (HSE) training application developed by Basibox for the Meta Quest platform. We prioritize your privacy and fully comply with applicable privacy regulations, including the European Union’s General Data Protection Regulation (GDPR).
+Basibox VR  is designed to operate fully offline, and no internet connection is required during training sessions unless otherwise stated by the organization. Basibox VR  does not collect any personal information, data, or user statistics. We will never request, gather, or transmit personal data.
+
+COMMITMENT TO CONFIDENTIALITY
+
+Basibox is committed to protecting your privacy while you use Basibox VR  on the Meta Quest platform. Below are the key points of our privacy policy:
+
+Confidential Information
+
+“Confidential Information” refers to any data or information exchanged between Basibox and the user in any form. In the context of this application, no such exchange takes place. We guarantee that no personal data will be collected or stored by Basibox VR.
+
+Ownership and Use of Data
+
+Any information related to your use of the application remains entirely private.
+We do not transmit, sell, or monetize any data. Basibox VR  operates offline, and no third-party providers have access to your usage data, as such data is never collected.
+
+Duration of the Agreement
+
+This privacy agreement becomes effective once you download and install Basibox VR .
+The terms of this agreement remain in effect as long as you use the application. Since no data is collected at any time, your privacy is continually protected.
+
+Governing Law and Jurisdiction
+
+This privacy policy is governed by the laws of your country of residence.
+Any disputes related to this policy will be handled under the appropriate legal jurisdictions.
+
+USER RIGHTS & DATA PROTECTION
+
+Since Basibox VR  does not collect, process, or store any personal information, you maintain full control over your privacy.
+There are no data-related user rights to exercise (such as access or deletion), as no personal data is ever requested or handled.
+
+DATA TRANSMISSION
+
+There is no data transmission involved in using Basibox VR .
+The training modules run offline and do not require an internet connection. As a result:
+
+No personal information is transmitted
+
+No gameplay or training statistics are sent
+
+No data is shared with third parties
+
+HOW WE PROTECT YOUR PRIVACY
+
+Basibox is fully committed to respecting and protecting your privacy. We guarantee that:
+
+Basibox VR is an offline application
+
+No personal or statistical data is collected
+
+No information is shared with third parties
+
+The application does not log or store any user activity or personal details
